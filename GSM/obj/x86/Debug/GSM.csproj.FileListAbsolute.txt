@@ -1,0 +1,54 @@
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\GSM.exe.config
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\GSM.exe
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\GSM.pdb
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\GemCard.dll
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\SCLib.dll
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.Form1.resources
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.Properties.Resources.resources
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.csproj.GenerateResource.Cache
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.exe
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.pdb
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\bin\x86\Debug\CoreUtil.dll
+c:\users\lsenecaux.espe-lnf\documents\visual studio 2013\Projects\GSM\GSM\obj\x86\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\GSM.exe.config
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\GSM.exe
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\GSM.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\CoreUtil.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\SIMCard.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\GemCard.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\SIMCard.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\CoreUtil.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\bin\x86\Debug\GemCard.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.Form1.resources
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.Form2.resources
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.Properties.Resources.resources
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.csproj.GenerateResource.Cache
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.exe
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\GSM\obj\x86\Debug\GSM.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\GSM.exe.config
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.exe
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\GSM.exe
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\GSM.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.Form1.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.Form2.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.Properties.Resources.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\obj\x86\Debug\GSM.csproj.GenerateResource.Cache
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\GSM\bin\x86\Debug\MySql.Data.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\GSM.exe.config
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.exe
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\GSM.exe
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\GSM.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\MySql.Data.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\bin\x86\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.Form1.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.Form2.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.Properties.Resources.resources
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\GSM\obj\x86\Debug\GSM.csproj.GenerateResource.Cache

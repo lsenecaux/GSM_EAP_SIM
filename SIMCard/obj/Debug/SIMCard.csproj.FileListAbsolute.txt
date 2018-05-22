@@ -1,0 +1,18 @@
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\SIMCard.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\SIMCard.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\CoreUtil.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\GemCard.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\CoreUtil.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\bin\Debug\GemCard.pdb
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\obj\Debug\SIMCard.dll
+C:\Users\ludovic.senecaux\Documents\Visual Studio 2013\Projects\pcsc\GSM\SIMCard\obj\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\SIMCard\bin\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\SIMCard\bin\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\SIMCard\obj\Debug\SIMCard.csprojResolveAssemblyReference.cache
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\SIMCard\obj\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM\SIMCard\obj\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\SIMCard\bin\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\SIMCard\bin\Debug\SIMCard.pdb
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\SIMCard\obj\Debug\SIMCard.csprojResolveAssemblyReference.cache
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\SIMCard\obj\Debug\SIMCard.dll
+C:\Users\lsenecaux.ESPE-LNF\Documents\Visual Studio 2013\Projects\pcsc\pcsc\GSM - Copie\SIMCard\obj\Debug\SIMCard.pdb
